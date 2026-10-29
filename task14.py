@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+ 
+=======
 import os
+>>>>>>> origin/main
 import pandas as pd
 import matplotlib.pyplot as plt
 
