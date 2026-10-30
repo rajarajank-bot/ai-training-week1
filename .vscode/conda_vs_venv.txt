@@ -1,0 +1,3 @@
+1. Conda is useful for Data Science and Machine Learning projects.
+2. Conda can manage Python versions and non-Python dependencies.
+3. venv is suitable for simple Python projects that need isolated environments.
